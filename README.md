@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @RealServerBot
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python, JavaScript
-- 💞️ I’m looking to collaborate on eSports Manager Discord bot
-- 📫 How to reach me officialserverbot@gmail.com
+Don't know what to write.
